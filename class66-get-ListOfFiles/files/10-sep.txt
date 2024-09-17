@@ -1,0 +1,19 @@
+Function Return :
+
+Union Type :
+
+Mixed Type :
+
+Nullable Type:
+
+Call by Value & Call by ref.:
+
+Array :
+
+Display Array:
+
+
+https://github.com/ggelashvili/learnphptherightway-outline
+
+
+https://laracasts.com/series/php-for-beginners-2023-edition/episodes/2

@@ -1,0 +1,39 @@
+Assignment Operator:
+=
++=    	Addition    Assig
+-=      Subtraction  
+*=      Multiplication
+/=      Division
+%=      Modulus
+
+Increment / Decrement Operator:
+
+
+++$x	Pre-increment    Increments $x by one, then returns $x.
+$x++	Post-increment   Returns $x, then increments $x by one.
+
+--$x	Pre-decrement    Decrements $x by one, then returns $x.
+$x--	Post-decrement   Returns $ax, then decrements $x by one.
+
+Comparison Operator:
+
+>= ---- $var >= $var -- 
+<= ---- $var <= $var -- 
+== ---- $var == $var -- 
+!= ---- $var != $var -- 
+<> ---- $var <> $var -- 
+=== ---- $var <> $var -- 
+!== ---- $var <> $var -- 
+
+Spaceship Operators(<=>):
+
+if Else:
+
+Ternary Operator(?:)
+
+Logical OR (): ||
+
+Logical and : &&
+
+
+ 

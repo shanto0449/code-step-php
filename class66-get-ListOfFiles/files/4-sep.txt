@@ -1,0 +1,24 @@
+constant:
+constant এক বার defined করা হলে পরে redefined করা যাবেনা।
+
+print vs echo
+echo print  এর থেকে কিছুটা দ্রুত .
+Print ব্যবহার করলে কোন একটা কিচু return করে , echo ব্যবহার কোরলে কোন কিছু return করেনা। 
+print একাধিক values show করতে পারেনা , echo একাধিক  values show করতে পারে। 
+
+Data Type:
+
+Var Dump:
+
+
+Printf:
+
+string এর placeholder = %s
+Integer এর placeholder = %d
+Float এর placeholder = %f
+binary          = %b
+octal            = %o
+h.decimal        = %x
+decimal           =%c
+
+Arithmatic Operator:
